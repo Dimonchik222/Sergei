@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+}
+
+h1 {color: #3700ff;
+font-size: 55px;
+text-align: center;
+text-shadow: 1px 1px 2px teal;
+}
+
+
+li {font-size: 25px;
+
+}
+  
+.text-1 {
+color: blueviolet;
+}
+
+
+.text-2 {
+color: rgb(0, 174, 255);
+}
+
+.text-3 {
+color: salmon;
+}
+
+.photo-1 {
+    width: 800px; ;
+    height: 520px; ;
+    margin-left: 370px ;
+}
+
+p {
+    font-size: 22px;
+
+
+    
+}
+a {
+ text-decoration: none;
+}
+
+  p:first-letter {
+color: red;
+font-size: 25px;
+  }
